@@ -132,3 +132,6 @@ public class ExampleCommand implements CommandExecutor {
 ## ✅ Summary
 
 This API makes it easy to prompt players for validated, cancellable, and timeout-based chat input in Bukkit/Spigot plugins.
+
+<img width="754" height="245" alt="image" src="https://github.com/user-attachments/assets/65086b3c-e8f4-4cec-b87a-3e43d6ef6e6e" />
+
